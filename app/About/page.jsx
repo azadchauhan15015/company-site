@@ -143,15 +143,15 @@ const page = () => {
 
 
       <div className=" bg-white-500 py-8">
-        <div className="max-w-[80vw] m-auto items-center h-full bg-red-500 flex flex-col md:flex-row justify-center ">
+        <div className="max-w-[80vw] m-auto items-center h-full bg-gradient-to-b from-[#ED6165] to-[#F5F5F5] flex flex-col md:flex-row justify-center ">
           <div className="text-white text-center md:text-left md:w-1/2  flex flex-col items-start justify-center max-w-full md:max-w-[23vw] m-auto">
           <img
         src="/Content Left.png" 
         alt="Decorative Image"
-        className="mb-4 object-contain filter invert brightness-0"
+        className="mb-4 object-contain brightness-0"
       />
-            <h2 className="font-rubik text-[35px] font-semibold leading-[50px] text-left">Our Mission</h2>
-            <p className='font-rubik text-[18px] font-light leading-[22px] text-left'>
+            <h2 className="font-rubik text-[35px] font-bold leading-[50px] text-left text-black">Our Mission</h2>
+            <p className='font-rubik text-[18px] font-light leading-[22px] text-left text-black'>
               Our mission is to stay curious and innovative, constantly pushing
               the boundaries of technology to create solutions that help our
               partners succeed. We believe in the power of technology to
@@ -184,14 +184,14 @@ const page = () => {
         alt="Decorative Image"
         className="mb-4 object-contain"
       />
-            <h2 className="font-rubik text-[35px] font-semibold leading-[50px] text-left">Our Vision</h2>
+            <h2 className="font-rubik text-[35px] font-bold leading-[50px] text-left">Our Vision</h2>
             <p className='font-rubik text-[18px] font-light leading-[22px] text-left'>
               Our vision is to be the go to partner for businesses looking to gain a competitive edge in their industry.  We work hard to create & deliver the top solutions that not only meet but also go beyond what our clients expect.
             </p>
           </div>
           <div className="md:w-1/2 p-4 flex justify-center pt-[60px] pb-[60px]">
             <img
-              src="/Bitmap.png"
+              src="/Bitmap1.png"
               alt="Mission Image"
               width={277.69}
               height={360}
@@ -206,16 +206,16 @@ const page = () => {
 
 
       <div className=" bg-white-500 py-8">
-        <div className="max-w-[80vw] m-auto items-center h-full bg-red-500 flex flex-col md:flex-row justify-center ">
+        <div className="max-w-[80vw] m-auto items-center h-full bg-gradient-to-b from-[#ED6165] to-[#F5F5F5] flex flex-col md:flex-row justify-center ">
           <div className="text-white text-center md:text-left md:w-1/2  flex flex-col items-start justify-center max-w-full md:max-w-[23vw] m-auto">
           <img
         src="/Content Left.png" 
         alt="Decorative Image"
-        className="mb-4 object-contain filter invert brightness-0"
+        className="mb-4 object-contain brightness-0"
       />
-            <h2 className="font-rubik text-[35px] font-semibold leading-[50px] text-left">Our Values</h2>
-            <p className='font-rubik text-[18px] font-light leading-[22px] text-left'>
-              We believe in the potential of every business & are committed to helping our client business.  Our values are centred around delivering custom solutions that drive growth, improve  productivity & provide a strong return on investment (ROI)
+            <h2 className="font-rubik text-[35px] font-bold leading-[50px] text-left text-black">Our Values</h2>
+            <p className='font-rubik text-[18px] font-light leading-[22px] text-left text-black'>
+              We believe in the potential of every business & are committed to helping our client business.  Our values are centred around delivering custom solutions that drive growth, improve  productivity & provide a strong return on investment (ROI).
             </p>
           </div>
           <div className="md:w-1/2 p-4 flex justify-center pt-[60px] pb-[60px]">
