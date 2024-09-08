@@ -206,7 +206,7 @@ const page = () => {
 
 
       <div className=" bg-white-500 py-8">
-        <div className="max-w-[80vw] m-auto items-center h-full bg-gradient-to-b from-[#ED6165] to-[#F5F5F5] flex flex-col md:flex-row justify-center ">
+        <div className="max-w-[80vw] m-auto items-center h-full bg-gradient-to-b from-[#F5F5F5] to-[#EE6468] flex flex-col md:flex-row justify-center ">
           <div className="text-white text-center md:text-left md:w-1/2  flex flex-col items-start justify-center max-w-full md:max-w-[23vw] m-auto">
           <img
         src="/Content Left.png" 
