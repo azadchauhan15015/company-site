@@ -23,7 +23,7 @@ const Navbar = () => {
       <Link href="/About" className="text-gray-800 hover:text-red-400" prefetch={false}>
         About Us
       </Link>
-      <Link href="/what-we-do" className="text-gray-800 hover:text-red-400" prefetch={false}>
+      <Link href="/What-We-Do" className="text-gray-800 hover:text-red-400" prefetch={false}>
         What We Do
       </Link>
       <Link href="/portfolio" className="text-gray-800 hover:text-red-400" prefetch={false}>
